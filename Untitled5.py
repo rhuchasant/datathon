@@ -9,7 +9,7 @@
 import re
 import numpy as np
 import pandas as pd
-import seaborn as sns
+
 import nltk
 import matplotlib.pyplot as plt
 from nltk.tokenize import word_tokenize
